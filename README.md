@@ -2,7 +2,7 @@ Projeto DIO — Análise Inteligente de Reclamações Pix
 
 Este projeto foi desenvolvido como parte de um desafio da DIO, com foco na aplicação de Engenharia de Prompt para transformar feedbacks de clientes bancários em informações estruturadas e úteis para tomada de decisão.
 
-O cenário escolhido envolve reclamações relacionadas ao Pix, utilizando Inteligência Artificial para apoiar a identificação de padrões, criticidade, impactos e indícios de possíveis causas raiz.
+O cenário escolhido envolve reclamações relacionadas ao Pix, utilizando Inteligência Artificial para apoiar a identificação de padrões, criticidade, impactos e indício de possíveis causas raiz.
 
 1️⃣ Passo 1 — Definição da Intenção
 🎯 Objetivo
